@@ -4,9 +4,4 @@ This passion has driven my development of centralized affordable housing platfor
 
 All through a lens of accessibility, I am eager to continue coding for the margins.
 
-Current Experience:
-- Specialized in Typescript and React Development
-- Proficient in C++, CSS, HTML, Java, JavaScript, PHP, Python, SQL
-- Familiar with R, x86 Assembly
-
 Also interested in Social Impact Technology? Email me at colin.buyck@gmail.com 
